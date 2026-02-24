@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Divyansh Bhardwaj.<br><br>💻 Developer | Problem Solver | Tech Enthusiast<br>⚡ C++ | React | JavaScript | DSA<br>🚀 Passionate about building projects and improving coding skills daily.
+Hi, I am Divyansh Bhardwaj.<br><br>💻 Developer | Problem Solver | Tech Enthusiast<br>⚡ C++ | C | JAVA | JavaScript | DSA<br>🚀 Passionate about building projects and improving coding skills daily.
 
 
 ## 🌐 Socials:
