@@ -1,5 +1,16 @@
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Divyansh+Bhardwaj+ 👉 I am learning Data Structures and Algorithms (DSA)" />
+</p>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ishantpathak01&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+
 # 💫 About Me:
-Hi, I am Divyansh Bhardwaj.<br><br>💻 Developer | Problem Solver | Tech Enthusiast<br>⚡ C++ | C | JAVA | JavaScript | DSA<br>🚀 Passionate about building projects and improving coding skills daily.
+<br><br>💻 Developer | Problem Solver | Tech Enthusiast<br>⚡ C++ | C | JAVA | JavaScript | DSA<br>🚀 Passionate about building projects and improving coding skills daily.
 
 
 ## 🌐 Socials:
