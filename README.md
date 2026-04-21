@@ -21,4 +21,14 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=divyansh-bhardwaj-01&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+
+##  LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/divyansh_bharwaj_01?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
