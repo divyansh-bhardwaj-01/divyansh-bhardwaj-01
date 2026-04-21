@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I%27m+Divyansh+Bhardwaj+ I+Am+Learning+Data+Structures+and+Algorithms+(DSA)" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I%27m+Divyansh+Bhardwaj+I+Am+Learning+Data+Structures+and+Algorithms+(DSA)" />
 </p>
 <!-- Profile Views -->
 <p align="center">
