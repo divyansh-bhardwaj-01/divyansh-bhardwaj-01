@@ -1,10 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Divyansh+Bhardwaj;Aspiring+Developer+%7C+DSA+Learner;Passionate+about+Coding+and+Problem+Solving" />
 </p>
-<!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divyansh-bhardwaj-01&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
 
 
 # 💫 About Me:
