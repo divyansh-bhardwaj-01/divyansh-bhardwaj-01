@@ -26,7 +26,7 @@
 
 ##  LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/divyansh_bharwaj_01?theme=dark&font=baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/divyansh_bhardwaj_01?theme=dark&font=baloo&ext=heatmap" />
 </p>
 
 ---
